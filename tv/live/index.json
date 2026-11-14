@@ -1,26 +1,21 @@
 {
- "maj": 1794650299,
- "maj_iso": "2026-11-14 10:58",
+ "maj": 1794652168,
+ "maj_iso": "2026-11-14 11:29",
  "v": 2,
  "chaines": {
   "LiveNOW from FOX": {
    "f": "livenow-from-fox.jpg",
-   "t": 1794650299
+   "t": 1794652168
   },
   "NHL Network": {
    "f": "nhl-network.jpg",
    "t": 1794650299,
    "now": {
-    "d": 1794648600,
-    "f": 1794650400,
+    "d": 1794650400,
+    "f": 1794652200,
     "titre": "On the Fly"
    },
    "prog": [
-    {
-     "d": 1794648600,
-     "f": 1794650400,
-     "titre": "On the Fly"
-    },
     {
      "d": 1794650400,
      "f": 1794652200,
@@ -55,27 +50,27 @@
      "d": 1794661200,
      "f": 1794663000,
      "titre": "On the Fly"
+    },
+    {
+     "d": 1794663000,
+     "f": 1794664800,
+     "titre": "On the Fly"
     }
    ],
    "next": {
     "titre": "On the Fly",
-    "d": 1794650400
+    "d": 1794652200
    }
   },
   "CNA": {
    "f": "cna.jpg",
-   "t": 1794650299,
+   "t": 1794652168,
    "now": {
-    "d": 1794648600,
-    "f": 1794650400,
-    "titre": "Talking Point"
+    "d": 1794650400,
+    "f": 1794652200,
+    "titre": "Asia Now"
    },
    "prog": [
-    {
-     "d": 1794648600,
-     "f": 1794650400,
-     "titre": "Talking Point"
-    },
     {
      "d": 1794650400,
      "f": 1794652200,
@@ -110,27 +105,27 @@
      "d": 1794661200,
      "f": 1794661320,
      "titre": "Headline News"
+    },
+    {
+     "d": 1794661320,
+     "f": 1794664800,
+     "titre": "Chasing Lava"
     }
    ],
    "next": {
-    "titre": "Asia Now",
-    "d": 1794650400
+    "titre": "On The Red Dot",
+    "d": 1794652200
    }
   },
   "TalkTV": {
    "f": "talktv.jpg",
-   "t": 1794650299,
+   "t": 1794652168,
    "now": {
-    "d": 1794636000,
-    "f": 1794650400,
-    "titre": "Talk Breakfast with Duncan Barkes"
+    "d": 1794650400,
+    "f": 1794659400,
+    "titre": "Alex Phillips"
    },
    "prog": [
-    {
-     "d": 1794636000,
-     "f": 1794650400,
-     "titre": "Talk Breakfast with Duncan Barkes"
-    },
     {
      "d": 1794650400,
      "f": 1794659400,
@@ -148,13 +143,13 @@
     }
    ],
    "next": {
-    "titre": "Alex Phillips",
-    "d": 1794650400
+    "titre": "GameDay Exclusive",
+    "d": 1794659400
    }
   },
   "Arirang TV": {
    "f": "arirang-tv.jpg",
-   "t": 1794650299,
+   "t": 1794652168,
    "now": {
     "d": 1794648600,
     "f": 1794652200,
@@ -216,34 +211,33 @@
   },
   "CGTN Documentary": {
    "f": "cgtn-documentary.jpg",
-   "t": 1794650299
+   "t": 1794652168
   },
   "TV Cultura": {
    "f": "tv-cultura.jpg",
-   "t": 1794650299
+   "t": 1794652168
   },
   "Imagen Televisión": {
    "f": "imagen-television.jpg",
-   "t": 1794650299
+   "t": 1794652168
   },
   "Quiero TV": {
    "f": "quiero-tv.jpg",
-   "t": 1794650299
+   "t": 1794652168
+  },
+  "Global News": {
+   "f": "global-news.jpg",
+   "t": 1794652168
   },
   "ABC News Australia": {
    "f": "abc-news-australia.jpg",
-   "t": 1794650299,
+   "t": 1794652168,
    "now": {
-    "d": 1794647400,
-    "f": 1794650400,
-    "titre": "Four Corners"
+    "d": 1794650400,
+    "f": 1794652200,
+    "titre": "ABC Nightly News"
    },
    "prog": [
-    {
-     "d": 1794647400,
-     "f": 1794650400,
-     "titre": "Four Corners"
-    },
     {
      "d": 1794650400,
      "f": 1794652200,
@@ -278,32 +272,27 @@
      "d": 1794661200,
      "f": 1794662100,
      "titre": "ABC News Overnight"
+    },
+    {
+     "d": 1794662100,
+     "f": 1794663060,
+     "titre": "Media Watch"
     }
    ],
    "next": {
-    "titre": "ABC Nightly News",
-    "d": 1794650400
+    "titre": "Compass",
+    "d": 1794652200
    }
   },
   "Al Jazeera Arabic": {
    "f": "al-jazeera-arabic.jpg",
-   "t": 1794650299,
+   "t": 1794652168,
    "now": {
-    "d": 1794643200,
-    "f": 1794650400,
-    "titre": "News Bulletin"
+    "d": 1794650700,
+    "f": 1794654000,
+    "titre": "Pleading"
    },
    "prog": [
-    {
-     "d": 1794643200,
-     "f": 1794650400,
-     "titre": "News Bulletin"
-    },
-    {
-     "d": 1794650400,
-     "f": 1794650700,
-     "titre": "News Summary"
-    },
     {
      "d": 1794650700,
      "f": 1794654000,
@@ -333,27 +322,32 @@
      "d": 1794668400,
      "f": 1794670200,
      "titre": "News Bulletin"
+    },
+    {
+     "d": 1794670200,
+     "f": 1794672000,
+     "titre": "Economic Bulletin"
+    },
+    {
+     "d": 1794672000,
+     "f": 1794672300,
+     "titre": "News Bulletin"
     }
    ],
    "next": {
     "titre": "News Summary",
-    "d": 1794650400
+    "d": 1794654000
    }
   },
   "MBC 1": {
    "f": "mbc-1.jpg",
    "t": 1794650299,
    "now": {
-    "d": 1794646800,
-    "f": 1794650400,
-    "titre": "Meeting From Zero"
+    "d": 1794650400,
+    "f": 1794654000,
+    "titre": "Million Dollar Land"
    },
    "prog": [
-    {
-     "d": 1794646800,
-     "f": 1794650400,
-     "titre": "Meeting From Zero"
-    },
     {
      "d": 1794650400,
      "f": 1794654000,
@@ -371,24 +365,19 @@
     }
    ],
    "next": {
-    "titre": "Million Dollar Land",
-    "d": 1794650400
+    "titre": "MBC In A Week",
+    "d": 1794654000
    }
   },
   "TRT Haber": {
    "f": "trt-haber.jpg",
-   "t": 1794650299,
+   "t": 1794652168,
    "now": {
-    "d": 1794646800,
-    "f": 1794650400,
-    "titre": "Haber 12"
+    "d": 1794650400,
+    "f": 1794654000,
+    "titre": "Haber 13"
    },
    "prog": [
-    {
-     "d": 1794646800,
-     "f": 1794650400,
-     "titre": "Haber 12"
-    },
     {
      "d": 1794650400,
      "f": 1794654000,
@@ -418,31 +407,31 @@
      "d": 1794668400,
      "f": 1794672000,
      "titre": "Haber 18"
+    },
+    {
+     "d": 1794672000,
+     "f": 1794675600,
+     "titre": "Haber 19"
     }
    ],
    "next": {
-    "titre": "Haber 13",
-    "d": 1794650400
+    "titre": "Haber 14",
+    "d": 1794654000
    }
   },
   "Kan 11": {
    "f": "kan-11.jpg",
-   "t": 1794650299
+   "t": 1794652168
   },
   "TV Puls": {
    "f": "tv-puls.jpg",
-   "t": 1794650299,
+   "t": 1794652168,
    "now": {
-    "d": 1794646800,
-    "f": 1794650400,
+    "d": 1794650400,
+    "f": 1794654000,
     "titre": "Lombard. Życie pod zastaw 12"
    },
    "prog": [
-    {
-     "d": 1794646800,
-     "f": 1794650400,
-     "titre": "Lombard. Życie pod zastaw 12"
-    },
     {
      "d": 1794650400,
      "f": 1794654000,
@@ -472,27 +461,26 @@
      "d": 1794668400,
      "f": 1794672000,
      "titre": "Lombard. Życie pod zastaw 19"
+    },
+    {
+     "d": 1794672000,
+     "f": 1794675600,
+     "titre": "Lombard. Życie pod zastaw 19"
     }
    ],
    "next": {
     "titre": "Lombard. Życie pod zastaw 12",
-    "d": 1794650400
+    "d": 1794654000
    }
   },
   "NBC News NOW": {
    "now": {
-    "d": 1794646800,
-    "f": 1794650400,
+    "d": 1794650400,
+    "f": 1794654000,
     "titre": "Dateline NBC",
     "img": "p/68efa03c9cbf.jpg"
    },
    "prog": [
-    {
-     "d": 1794646800,
-     "f": 1794650400,
-     "titre": "Dateline NBC",
-     "img": "p/68efa03c9cbf.jpg"
-    },
     {
      "d": 1794650400,
      "f": 1794654000,
@@ -520,23 +508,17 @@
    ],
    "next": {
     "titre": "Dateline NBC",
-    "d": 1794650400
+    "d": 1794654000
    }
   },
   "CBS News 24/7": {
    "now": {
-    "d": 1794646800,
-    "f": 1794650400,
-    "titre": "The Daily Report",
-    "img": "p/88dde23c3601.jpg"
+    "d": 1794650400,
+    "f": 1794652200,
+    "titre": "CBS Evening News",
+    "img": "p/3707f9c60889.jpg"
    },
    "prog": [
-    {
-     "d": 1794646800,
-     "f": 1794650400,
-     "titre": "The Daily Report",
-     "img": "p/88dde23c3601.jpg"
-    },
     {
      "d": 1794650400,
      "f": 1794652200,
@@ -578,27 +560,27 @@
      "f": 1794664800,
      "titre": "CBS Saturday Morning",
      "img": "p/c430556fde9f.jpg"
+    },
+    {
+     "d": 1794664800,
+     "f": 1794668400,
+     "titre": "CBS Saturday Morning",
+     "img": "p/c430556fde9f.jpg"
     }
    ],
    "next": {
     "titre": "CBS Evening News",
-    "d": 1794650400
+    "d": 1794652200
    }
   },
   "SNL Vault": {
    "now": {
-    "d": 1794648300,
-    "f": 1794651600,
+    "d": 1794651600,
+    "f": 1794654960,
     "titre": "Saturday Night Live",
     "img": "p/095f71ff8f88.jpg"
    },
    "prog": [
-    {
-     "d": 1794648300,
-     "f": 1794651600,
-     "titre": "Saturday Night Live",
-     "img": "p/095f71ff8f88.jpg"
-    },
     {
      "d": 1794651600,
      "f": 1794654960,
@@ -644,23 +626,17 @@
    ],
    "next": {
     "titre": "Saturday Night Live",
-    "d": 1794651600
+    "d": 1794654960
    }
   },
   "NBC Comedy Vault": {
    "now": {
-    "d": 1794650160,
-    "f": 1794651540,
+    "d": 1794651540,
+    "f": 1794652980,
     "titre": "Will & Grace",
     "img": "p/7d4b241b5400.jpg"
    },
    "prog": [
-    {
-     "d": 1794650160,
-     "f": 1794651540,
-     "titre": "Will & Grace",
-     "img": "p/7d4b241b5400.jpg"
-    },
     {
      "d": 1794651540,
      "f": 1794652980,
@@ -702,27 +678,27 @@
      "f": 1794661440,
      "titre": "Will & Grace",
      "img": "p/7d4b241b5400.jpg"
+    },
+    {
+     "d": 1794661440,
+     "f": 1794662880,
+     "titre": "Will & Grace",
+     "img": "p/7d4b241b5400.jpg"
     }
    ],
    "next": {
     "titre": "Will & Grace",
-    "d": 1794651540
+    "d": 1794652980
    }
   },
   "Hell's Kitchen": {
    "now": {
-    "d": 1794647672,
-    "f": 1794650790,
+    "d": 1794650790,
+    "f": 1794654000,
     "titre": "Hell's Kitchen",
     "img": "p/25fd69590741.jpg"
    },
    "prog": [
-    {
-     "d": 1794647672,
-     "f": 1794650790,
-     "titre": "Hell's Kitchen",
-     "img": "p/25fd69590741.jpg"
-    },
     {
      "d": 1794650790,
      "f": 1794654000,
@@ -756,23 +732,17 @@
    ],
    "next": {
     "titre": "Hell's Kitchen",
-    "d": 1794650790
+    "d": 1794654000
    }
   },
   "Red Bull TV": {
    "now": {
-    "d": 1794649472,
-    "f": 1794651285,
-    "titre": "PADEL: Premier Padel 2026 Malaga P1 – Highlights",
-    "img": "p/2632fa8306d2.jpg"
+    "d": 1794651285,
+    "f": 1794652284,
+    "titre": "What it Takes to Break",
+    "img": "p/6886b1dfbb4d.jpg"
    },
    "prog": [
-    {
-     "d": 1794649472,
-     "f": 1794651285,
-     "titre": "PADEL: Premier Padel 2026 Malaga P1 – Highlights",
-     "img": "p/2632fa8306d2.jpg"
-    },
     {
      "d": 1794651285,
      "f": 1794652284,
@@ -796,27 +766,27 @@
      "f": 1794661398,
      "titre": "Red Bull Flugtag Series",
      "img": "p/ec602c124b04.jpg"
+    },
+    {
+     "d": 1794672169,
+     "f": 1794674015,
+     "titre": "Red Bull Flugtag Series",
+     "img": "p/ec602c124b04.jpg"
     }
    ],
    "next": {
-    "titre": "What it Takes to Break",
-    "d": 1794651285
+    "titre": "PADEL: Premier Padel 2026 Cancun P2 – Highlights",
+    "d": 1794652284
    }
   },
   "PBS Kids": {
    "now": {
-    "d": 1794648600,
-    "f": 1794650400,
-    "titre": "Wild Kratts",
-    "img": "p/f9f1fc1e0888.jpg"
+    "d": 1794650400,
+    "f": 1794652200,
+    "titre": "Cyberchase",
+    "img": "p/4e535655425e.jpg"
    },
    "prog": [
-    {
-     "d": 1794648600,
-     "f": 1794650400,
-     "titre": "Wild Kratts",
-     "img": "p/f9f1fc1e0888.jpg"
-    },
     {
      "d": 1794650400,
      "f": 1794652200,
@@ -858,27 +828,27 @@
      "f": 1794663000,
      "titre": "Sesame Street",
      "img": "p/c833e9f40bcd.jpg"
+    },
+    {
+     "d": 1794663000,
+     "f": 1794664800,
+     "titre": "Phoebe & Jay",
+     "img": "p/449504bfe781.jpg"
     }
    ],
    "next": {
-    "titre": "Cyberchase",
-    "d": 1794650400
+    "titre": "Hero Elementary",
+    "d": 1794652200
    }
   },
   "Scripps News": {
    "now": {
-    "d": 1794646800,
-    "f": 1794650400,
-    "titre": "Live: Today as It Happened",
-    "img": "p/305cecd647f4.jpg"
+    "d": 1794650400,
+    "f": 1794652200,
+    "titre": "Caught On... Clips",
+    "img": "p/29f7d42c1e1f.jpg"
    },
    "prog": [
-    {
-     "d": 1794646800,
-     "f": 1794650400,
-     "titre": "Live: Today as It Happened",
-     "img": "p/305cecd647f4.jpg"
-    },
     {
      "d": 1794650400,
      "f": 1794652200,
@@ -920,27 +890,27 @@
      "f": 1794664800,
      "titre": "The Lightbulb Moment",
      "img": "p/b172e1649a0d.jpg"
+    },
+    {
+     "d": 1794664800,
+     "f": 1794668400,
+     "titre": "Scripps News Weekend",
+     "img": "p/f4b1d4312f94.jpg"
     }
    ],
    "next": {
     "titre": "Caught On... Clips",
-    "d": 1794650400
+    "d": 1794652200
    }
   },
   "Fox Weather": {
    "now": {
-    "d": 1794646800,
-    "f": 1794650400,
-    "titre": "Fox Nation: PARK'D: Yosemite  Joshua Tree",
-    "img": "p/86ddf4bd3346.jpg"
+    "d": 1794650400,
+    "f": 1794654000,
+    "titre": "Park'd Places: Dry Tortugas National Park",
+    "img": "p/c17eb4a072de.jpg"
    },
    "prog": [
-    {
-     "d": 1794646800,
-     "f": 1794650400,
-     "titre": "Fox Nation: PARK'D: Yosemite  Joshua Tree",
-     "img": "p/86ddf4bd3346.jpg"
-    },
     {
      "d": 1794650400,
      "f": 1794654000,
@@ -955,8 +925,8 @@
     }
    ],
    "next": {
-    "titre": "Park'd Places: Dry Tortugas National Park",
-    "d": 1794650400
+    "titre": "Weather Command Weekend",
+    "d": 1794654000
    }
   },
   "Dateline 24/7": {
@@ -999,18 +969,12 @@
   },
   "Comet": {
    "now": {
-    "d": 1794648600,
-    "f": 1794650400,
-    "titre": "Injured in an Auto Accident? Call Big Auto",
-    "img": "p/237a3f29ba8f.jpg"
+    "d": 1794650400,
+    "f": 1794652200,
+    "titre": "Looking for a Medicare plan? Tune in now!",
+    "img": "p/476fb5bf2c33.jpg"
    },
    "prog": [
-    {
-     "d": 1794648600,
-     "f": 1794650400,
-     "titre": "Injured in an Auto Accident? Call Big Auto",
-     "img": "p/237a3f29ba8f.jpg"
-    },
     {
      "d": 1794650400,
      "f": 1794652200,
@@ -1052,27 +1016,27 @@
      "f": 1794668400,
      "titre": "Looking for a Medicare plan? Tune in now!",
      "img": "p/476fb5bf2c33.jpg"
+    },
+    {
+     "d": 1794668400,
+     "f": 1794670200,
+     "titre": "Paid Programming",
+     "img": "p/0ac5e1e91edf.jpg"
     }
    ],
    "next": {
-    "titre": "Looking for a Medicare plan? Tune in now!",
-    "d": 1794650400
+    "titre": "Emma: Natural Relief for Bloating, Constipation & Gut Imbalance",
+    "d": 1794652200
    }
   },
   "Newsmax": {
    "now": {
-    "d": 1794646800,
-    "f": 1794650400,
-    "titre": "Ed Henry The Big Take",
-    "img": "p/375c3b83ace7.jpg"
+    "d": 1794650400,
+    "f": 1794652200,
+    "titre": "Caught on Bodycam",
+    "img": "p/b7abd766fe25.jpg"
    },
    "prog": [
-    {
-     "d": 1794646800,
-     "f": 1794650400,
-     "titre": "Ed Henry The Big Take",
-     "img": "p/375c3b83ace7.jpg"
-    },
     {
      "d": 1794650400,
      "f": 1794652200,
@@ -1108,11 +1072,17 @@
      "f": 1794672000,
      "titre": "Live: America Right Now",
      "img": "p/19605d44d046.jpg"
+    },
+    {
+     "d": 1794672000,
+     "f": 1794679200,
+     "titre": "Live: Saturday Report",
+     "img": "p/18eadb4908bb.jpg"
     }
    ],
    "next": {
     "titre": "Caught on Bodycam",
-    "d": 1794650400
+    "d": 1794652200
    }
   },
   "American Crime Channel": {
@@ -1179,18 +1149,12 @@
   },
   "BBC News": {
    "now": {
-    "d": 1794646800,
-    "f": 1794650400,
+    "d": 1794650400,
+    "f": 1794652200,
     "titre": "BBC News",
-    "img": "p/d91c70163de7.jpg"
+    "img": "p/5c78bd2427b5.jpg"
    },
    "prog": [
-    {
-     "d": 1794646800,
-     "f": 1794650400,
-     "titre": "BBC News",
-     "img": "p/d91c70163de7.jpg"
-    },
     {
      "d": 1794650400,
      "f": 1794652200,
@@ -1231,27 +1195,27 @@
      "f": 1794663000,
      "titre": "BBC News",
      "img": "p/a337ae480739.jpg"
+    },
+    {
+     "d": 1794663000,
+     "f": 1794664800,
+     "titre": "AI Decoded",
+     "img": "p/0aaa8aff9f14.jpg"
     }
    ],
    "next": {
     "titre": "BBC News",
-    "d": 1794650400
+    "d": 1794652200
    }
   },
   "Bloomberg TV": {
    "now": {
-    "d": 1794648600,
-    "f": 1794650400,
-    "titre": "Extraordinary Life Stories",
-    "img": "p/a09330854c43.jpg"
+    "d": 1794650400,
+    "f": 1794652200,
+    "titre": "The Deal with Alex Rodriguez and Jason Kelly",
+    "img": "p/d50515d07fee.jpg"
    },
    "prog": [
-    {
-     "d": 1794648600,
-     "f": 1794650400,
-     "titre": "Extraordinary Life Stories",
-     "img": "p/a09330854c43.jpg"
-    },
     {
      "d": 1794650400,
      "f": 1794652200,
@@ -1281,33 +1245,27 @@
      "f": 1794672000,
      "titre": "Bloomberg Wall Street Week",
      "img": "p/7798604f9d66.jpg"
+    },
+    {
+     "d": 1794672000,
+     "f": 1794673800,
+     "titre": "The Mishal Husain Show",
+     "img": "p/ef34221f6d98.jpg"
     }
    ],
    "next": {
-    "titre": "The Deal with Alex Rodriguez and Jason Kelly",
-    "d": 1794650400
+    "titre": "The Mishal Husain Show",
+    "d": 1794652200
    }
   },
   "France 24 English": {
    "now": {
-    "d": 1794649860,
-    "f": 1794650400,
-    "titre": "Focus",
-    "img": "p/46c785cf2135.jpg"
+    "d": 1794650940,
+    "f": 1794652200,
+    "titre": "Revisited",
+    "img": "p/94ebbd2ca81a.jpg"
    },
    "prog": [
-    {
-     "d": 1794649860,
-     "f": 1794650400,
-     "titre": "Focus",
-     "img": "p/46c785cf2135.jpg"
-    },
-    {
-     "d": 1794650400,
-     "f": 1794650940,
-     "titre": "News",
-     "img": "p/0f0bcf0553ea.jpg"
-    },
     {
      "d": 1794650940,
      "f": 1794652200,
@@ -1343,39 +1301,33 @@
      "f": 1794655800,
      "titre": "Arts24",
      "img": "p/3958325b19eb.jpg"
+    },
+    {
+     "d": 1794655800,
+     "f": 1794656640,
+     "titre": "News",
+     "img": "p/f286cb468638.jpg"
+    },
+    {
+     "d": 1794656640,
+     "f": 1794657000,
+     "titre": "Focus",
+     "img": "p/10b7b222803a.jpg"
     }
    ],
    "next": {
     "titre": "News",
-    "d": 1794650400
+    "d": 1794652200
    }
   },
   "DW English": {
    "now": {
-    "d": 1794648600,
-    "f": 1794650400,
-    "titre": "In Good Shape",
-    "img": "p/a6a587335dda.jpg"
+    "d": 1794651300,
+    "f": 1794652200,
+    "titre": "Shift",
+    "img": "p/2956e3e5e1de.jpg"
    },
    "prog": [
-    {
-     "d": 1794648600,
-     "f": 1794650400,
-     "titre": "In Good Shape",
-     "img": "p/a6a587335dda.jpg"
-    },
-    {
-     "d": 1794650400,
-     "f": 1794650520,
-     "titre": "DW News",
-     "img": "p/5179439ab1ab.jpg"
-    },
-    {
-     "d": 1794650520,
-     "f": 1794651300,
-     "titre": "Travel",
-     "img": "p/6457d18c923e.jpg"
-    },
     {
      "d": 1794651300,
      "f": 1794652200,
@@ -1405,33 +1357,39 @@
      "f": 1794661200,
      "titre": "Love Matters",
      "img": "p/5095c0e7bcee.jpg"
+    },
+    {
+     "d": 1794661200,
+     "f": 1794661320,
+     "titre": "DW News",
+     "img": "p/5179439ab1ab.jpg"
+    },
+    {
+     "d": 1794661320,
+     "f": 1794662100,
+     "titre": "Sports Life",
+     "img": "p/8f866acc8ff6.jpg"
+    },
+    {
+     "d": 1794662100,
+     "f": 1794664800,
+     "titre": "DocFilm",
+     "img": "p/c33fe223682d.jpg"
     }
    ],
    "next": {
-    "titre": "DW News",
-    "d": 1794650400
+    "titre": "DocFilm",
+    "d": 1794652200
    }
   },
   "Euronews English": {
    "now": {
-    "d": 1794648900,
-    "f": 1794650400,
-    "titre": "The Ring",
-    "img": "p/10e93b28e227.jpg"
+    "d": 1794650940,
+    "f": 1794652200,
+    "titre": "News",
+    "img": "p/a0b09cb7d442.jpg"
    },
    "prog": [
-    {
-     "d": 1794648900,
-     "f": 1794650400,
-     "titre": "The Ring",
-     "img": "p/10e93b28e227.jpg"
-    },
-    {
-     "d": 1794650400,
-     "f": 1794650940,
-     "titre": "5 Minutes",
-     "img": "p/5e42652f228e.jpg"
-    },
     {
      "d": 1794650940,
      "f": 1794652200,
@@ -1467,27 +1425,33 @@
      "f": 1794655800,
      "titre": "The Ring",
      "img": "p/189ee8e4bd5a.jpg"
+    },
+    {
+     "d": 1794655800,
+     "f": 1794656100,
+     "titre": "5 Minutes",
+     "img": "p/ea86805ab8f0.jpg"
+    },
+    {
+     "d": 1794656100,
+     "f": 1794656940,
+     "titre": "The Ring",
+     "img": "p/12e3892698cb.jpg"
     }
    ],
    "next": {
     "titre": "5 Minutes",
-    "d": 1794650400
+    "d": 1794652200
    }
   },
   "Al Jazeera English": {
    "now": {
-    "d": 1794648600,
-    "f": 1794650400,
-    "titre": "UpFront",
-    "img": "p/e7d926198b1c.jpg"
+    "d": 1794650400,
+    "f": 1794654000,
+    "titre": "Newshour",
+    "img": "p/06588af50aad.jpg"
    },
    "prog": [
-    {
-     "d": 1794648600,
-     "f": 1794650400,
-     "titre": "UpFront",
-     "img": "p/e7d926198b1c.jpg"
-    },
     {
      "d": 1794650400,
      "f": 1794654000,
@@ -1529,27 +1493,27 @@
      "f": 1794668400,
      "titre": "101 East",
      "img": "p/2bd335f808db.jpg"
+    },
+    {
+     "d": 1794668400,
+     "f": 1794672000,
+     "titre": "Newshour",
+     "img": "p/06588af50aad.jpg"
     }
    ],
    "next": {
-    "titre": "Newshour",
-    "d": 1794650400
+    "titre": "News Live",
+    "d": 1794654000
    }
   },
   "TRT World": {
    "now": {
-    "d": 1794648600,
-    "f": 1794650400,
-    "titre": "Just 2 Degrees",
-    "img": "p/578c4fd74f3c.jpg"
+    "d": 1794650400,
+    "f": 1794652200,
+    "titre": "News",
+    "img": "p/cb48c4752cbd.jpg"
    },
    "prog": [
-    {
-     "d": 1794648600,
-     "f": 1794650400,
-     "titre": "Just 2 Degrees",
-     "img": "p/578c4fd74f3c.jpg"
-    },
     {
      "d": 1794650400,
      "f": 1794652200,
@@ -1591,33 +1555,27 @@
      "f": 1794661200,
      "titre": "Roundtable",
      "img": "p/e9c4ca64b8b8.jpg"
+    },
+    {
+     "d": 1794661200,
+     "f": 1794663000,
+     "titre": "News",
+     "img": "p/116d8445c826.jpg"
     }
    ],
    "next": {
-    "titre": "News",
-    "d": 1794650400
+    "titre": "Debrief",
+    "d": 1794652200
    }
   },
   "CGTN": {
    "now": {
-    "d": 1794648600,
-    "f": 1794650400,
-    "titre": "The Inheritors",
-    "img": "p/ecc3036ff9b4.jpg"
+    "d": 1794651300,
+    "f": 1794654000,
+    "titre": "Africa Live",
+    "img": "p/bae53467bc57.jpg"
    },
    "prog": [
-    {
-     "d": 1794648600,
-     "f": 1794650400,
-     "titre": "The Inheritors",
-     "img": "p/ecc3036ff9b4.jpg"
-    },
-    {
-     "d": 1794650400,
-     "f": 1794651300,
-     "titre": "The World Today",
-     "img": "p/8905a7adb662.jpg"
-    },
     {
      "d": 1794651300,
      "f": 1794654000,
@@ -1653,33 +1611,33 @@
      "f": 1794663000,
      "titre": "The World Today",
      "img": "p/8905a7adb662.jpg"
+    },
+    {
+     "d": 1794663000,
+     "f": 1794664800,
+     "titre": "Biz Talk",
+     "img": "p/68b6bf6c63ef.jpg"
+    },
+    {
+     "d": 1794664800,
+     "f": 1794666600,
+     "titre": "The World Today",
+     "img": "p/8905a7adb662.jpg"
     }
    ],
    "next": {
-    "titre": "The World Today",
-    "d": 1794650400
+    "titre": "Asia Today",
+    "d": 1794654000
    }
   },
   "NHK World-Japan": {
    "now": {
-    "d": 1794649800,
-    "f": 1794650400,
-    "titre": "Viewpoint Science",
-    "img": "p/667f8a88f1b7.jpg"
+    "d": 1794651000,
+    "f": 1794654000,
+    "titre": "Cycle Around Taiwan",
+    "img": "p/8858487cc782.jpg"
    },
    "prog": [
-    {
-     "d": 1794649800,
-     "f": 1794650400,
-     "titre": "Viewpoint Science",
-     "img": "p/667f8a88f1b7.jpg"
-    },
-    {
-     "d": 1794650400,
-     "f": 1794651000,
-     "titre": "NHK Newsline",
-     "img": "p/f3441d7118d6.jpg"
-    },
     {
      "d": 1794651000,
      "f": 1794654000,
@@ -1715,33 +1673,33 @@
      "f": 1794658200,
      "titre": "NHK Newsline",
      "img": "p/8d8ac7388812.jpg"
+    },
+    {
+     "d": 1794658200,
+     "f": 1794661200,
+     "titre": "Documentary 360",
+     "img": "p/f44ba9d45ee5.jpg"
+    },
+    {
+     "d": 1794661200,
+     "f": 1794661800,
+     "titre": "NHK Newsline",
+     "img": "p/5f240932e7dc.jpg"
     }
    ],
    "next": {
     "titre": "NHK Newsline",
-    "d": 1794650400
+    "d": 1794654000
    }
   },
   "France 24 Français": {
    "now": {
-    "d": 1794649860,
-    "f": 1794650400,
-    "titre": "Sports",
-    "img": "p/fe8181472f93.jpg"
+    "d": 1794651000,
+    "f": 1794652200,
+    "titre": "Ici l'Europe : on vous écoute",
+    "img": "p/e51ff8131571.jpg"
    },
    "prog": [
-    {
-     "d": 1794649860,
-     "f": 1794650400,
-     "titre": "Sports",
-     "img": "p/fe8181472f93.jpg"
-    },
-    {
-     "d": 1794650400,
-     "f": 1794651000,
-     "titre": "Paris direct : le journal",
-     "img": "p/16940d77066a.jpg"
-    },
     {
      "d": 1794651000,
      "f": 1794652200,
@@ -1777,11 +1735,23 @@
      "f": 1794656460,
      "titre": "Aux avant-postes",
      "img": "p/e66c65a31af2.jpg"
+    },
+    {
+     "d": 1794656460,
+     "f": 1794657180,
+     "titre": "En tête à tête",
+     "img": "p/0c6868236189.jpg"
+    },
+    {
+     "d": 1794657180,
+     "f": 1794657600,
+     "titre": "Plan B",
+     "img": "p/a22e075ce71d.jpg"
     }
    ],
    "next": {
     "titre": "Paris direct : le journal",
-    "d": 1794650400
+    "d": 1794652200
    }
   },
   "TV5Monde Info": {
@@ -1883,6 +1853,12 @@
      "f": 1794672900,
      "titre": "Les beautés de la cordillère des Andes",
      "img": "p/d291c6c93fb4.jpg"
+    },
+    {
+     "d": 1794672900,
+     "f": 1794675600,
+     "titre": "Invitation au voyage",
+     "img": "p/6df1f8983ad8.jpg"
     }
    ],
    "next": {
@@ -1892,18 +1868,12 @@
   },
   "The Graham Norton Show": {
    "now": {
-    "d": 1794649810,
-    "f": 1794652102,
-    "titre": "Series 16 Ep 10 with Michael Keaton",
-    "img": "p/48a5c6014e61.jpg"
+    "d": 1794652102,
+    "f": 1794654538,
+    "titre": "Series 17 Ep 4 with Matt LeBlanc",
+    "img": "p/90f3532c6e49.jpg"
    },
    "prog": [
-    {
-     "d": 1794649810,
-     "f": 1794652102,
-     "titre": "Series 16 Ep 10 with Michael Keaton",
-     "img": "p/48a5c6014e61.jpg"
-    },
     {
      "d": 1794652102,
      "f": 1794654538,
@@ -1942,24 +1912,18 @@
     }
    ],
    "next": {
-    "titre": "Series 17 Ep 4 with Matt LeBlanc",
-    "d": 1794652102
+    "titre": "Series 15 Ep 10 with Mark Ruffalo",
+    "d": 1794654538
    }
   },
   "Doctor Who Classic": {
    "now": {
-    "d": 1794648900,
-    "f": 1794650640,
+    "d": 1794650640,
+    "f": 1794652380,
     "titre": "Classic Doctor Who",
     "img": "p/86b702371148.jpg"
    },
    "prog": [
-    {
-     "d": 1794648900,
-     "f": 1794650640,
-     "titre": "Classic Doctor Who",
-     "img": "p/86b702371148.jpg"
-    },
     {
      "d": 1794650640,
      "f": 1794652380,
@@ -2001,27 +1965,27 @@
      "f": 1794662520,
      "titre": "Classic Doctor Who",
      "img": "p/86b702371148.jpg"
+    },
+    {
+     "d": 1794662520,
+     "f": 1794664200,
+     "titre": "Classic Doctor Who",
+     "img": "p/86b702371148.jpg"
     }
    ],
    "next": {
     "titre": "Classic Doctor Who",
-    "d": 1794650640
+    "d": 1794652380
    }
   },
   "GB News": {
    "now": {
-    "d": 1794636000,
-    "f": 1794650400,
-    "titre": "Breakfast with Stephen and Anne",
-    "img": "p/fb5abbbae06d.jpg"
+    "d": 1794650400,
+    "f": 1794657600,
+    "titre": "Saturday Morning Live",
+    "img": "p/15fc9d0d470d.jpg"
    },
    "prog": [
-    {
-     "d": 1794636000,
-     "f": 1794650400,
-     "titre": "Breakfast with Stephen and Anne",
-     "img": "p/fb5abbbae06d.jpg"
-    },
     {
      "d": 1794650400,
      "f": 1794657600,
@@ -2042,8 +2006,8 @@
     }
    ],
    "next": {
-    "titre": "Saturday Morning Live",
-    "d": 1794650400
+    "titre": "The Weekend",
+    "d": 1794657600
    }
   },
   "Das Erste": {
@@ -2172,18 +2136,12 @@
   },
   "Arte (Deutsch)": {
    "now": {
-    "d": 1794650100,
-    "f": 1794651600,
-    "titre": "Zu Tisch",
-    "img": "p/46df14c07719.jpg"
+    "d": 1794651600,
+    "f": 1794654900,
+    "titre": "Gletscher im Wandel",
+    "img": "p/ed4cb56edb8f.jpg"
    },
    "prog": [
-    {
-     "d": 1794650100,
-     "f": 1794651600,
-     "titre": "Zu Tisch",
-     "img": "p/46df14c07719.jpg"
-    },
     {
      "d": 1794651600,
      "f": 1794654900,
@@ -2223,23 +2181,17 @@
    ],
    "next": {
     "titre": "Gletscher im Wandel",
-    "d": 1794651600
+    "d": 1794654900
    }
   },
   "ARD alpha": {
    "now": {
-    "d": 1794648600,
-    "f": 1794650400,
-    "titre": "STATIONEN",
-    "img": "p/cadd7f02dd09.jpg"
+    "d": 1794650400,
+    "f": 1794652200,
+    "titre": "kreuz & quer nah dran",
+    "img": "p/0a9049ce8b1f.jpg"
    },
    "prog": [
-    {
-     "d": 1794648600,
-     "f": 1794650400,
-     "titre": "STATIONEN",
-     "img": "p/cadd7f02dd09.jpg"
-    },
     {
      "d": 1794650400,
      "f": 1794652200,
@@ -2281,11 +2233,17 @@
      "f": 1794660300,
      "titre": "Klimazeit",
      "img": "p/d408dcfdd18b.jpg"
+    },
+    {
+     "d": 1794660300,
+     "f": 1794663000,
+     "titre": "Zwischen Spessart und Karwendel",
+     "img": "p/c70b011c27f8.jpg"
     }
    ],
    "next": {
-    "titre": "kreuz & quer nah dran",
-    "d": 1794650400
+    "titre": "Streetphilosophy",
+    "d": 1794652200
    }
   },
   "La 1": {
@@ -2350,18 +2308,12 @@
   },
   "Canal 24 Horas": {
    "now": {
-    "d": 1794648600,
-    "f": 1794650400,
+    "d": 1794650400,
+    "f": 1794652200,
     "titre": "Noticias 24h",
     "img": "p/43de0ecc6709.jpg"
    },
    "prog": [
-    {
-     "d": 1794648600,
-     "f": 1794650400,
-     "titre": "Noticias 24h",
-     "img": "p/43de0ecc6709.jpg"
-    },
     {
      "d": 1794650400,
      "f": 1794652200,
@@ -2403,11 +2355,17 @@
      "f": 1794663000,
      "titre": "Noticias 24h",
      "img": "p/43de0ecc6709.jpg"
+    },
+    {
+     "d": 1794663000,
+     "f": 1794664800,
+     "titre": "Audiencia Abierta",
+     "img": "p/b782fbf6775b.jpg"
     }
    ],
    "next": {
     "titre": "Noticias 24h",
-    "d": 1794650400
+    "d": 1794652200
    }
   },
   "TVE Internacional": {
@@ -2474,18 +2432,12 @@
   },
   "DW Español": {
    "now": {
-    "d": 1794648600,
-    "f": 1794650400,
-    "titre": "Enfoque Europa",
-    "img": "p/88892341a0ce.jpg"
+    "d": 1794650400,
+    "f": 1794652200,
+    "titre": "Visión futuro",
+    "img": "p/8fbcd795f4ec.jpg"
    },
    "prog": [
-    {
-     "d": 1794648600,
-     "f": 1794650400,
-     "titre": "Enfoque Europa",
-     "img": "p/88892341a0ce.jpg"
-    },
     {
      "d": 1794650400,
      "f": 1794652200,
@@ -2527,27 +2479,27 @@
      "f": 1794661200,
      "titre": "Enfoque Europa",
      "img": "p/88892341a0ce.jpg"
+    },
+    {
+     "d": 1794661200,
+     "f": 1794662100,
+     "titre": "El reportero",
+     "img": "p/96c436f7690e.jpg"
     }
    ],
    "next": {
-    "titre": "Visión futuro",
-    "d": 1794650400
+    "titre": "Aquí estoy",
+    "d": 1794652200
    }
   },
   "TV2000": {
    "now": {
-    "d": 1794648900,
-    "f": 1794651900,
-    "titre": "Caro Gesù",
-    "img": "p/101dfd68235c.jpg"
+    "d": 1794651900,
+    "f": 1794653700,
+    "titre": "Soul",
+    "img": "p/522fac1fa9c4.jpg"
    },
    "prog": [
-    {
-     "d": 1794648900,
-     "f": 1794651900,
-     "titre": "Caro Gesù",
-     "img": "p/101dfd68235c.jpg"
-    },
     {
      "d": 1794651900,
      "f": 1794653700,
@@ -2589,27 +2541,27 @@
      "f": 1794663600,
      "titre": "Viaggio apostolico di Papa Leone XIV in Sudamerica",
      "img": "p/e2da21eaabda.jpg"
+    },
+    {
+     "d": 1794663600,
+     "f": 1794664500,
+     "titre": "Chiesa viva",
+     "img": "p/13727432d643.jpg"
     }
    ],
    "next": {
-    "titre": "Soul",
-    "d": 1794651900
+    "titre": "Angelus",
+    "d": 1794653700
    }
   },
   "Sportitalia Plus": {
    "now": {
-    "d": 1794648600,
-    "f": 1794650400,
-    "titre": "Magazine Inside City",
-    "img": "p/c40cf26cdddb.jpg"
+    "d": 1794650400,
+    "f": 1794652200,
+    "titre": "Si Live",
+    "img": "p/19875c34367d.jpg"
    },
    "prog": [
-    {
-     "d": 1794648600,
-     "f": 1794650400,
-     "titre": "Magazine Inside City",
-     "img": "p/c40cf26cdddb.jpg"
-    },
     {
      "d": 1794650400,
      "f": 1794652200,
@@ -2645,11 +2597,17 @@
      "f": 1794672000,
      "titre": "Solo calcio",
      "img": "p/68d95f9694fb.jpg"
+    },
+    {
+     "d": 1794672000,
+     "f": 1794679200,
+     "titre": "Qualificazioni Coppa d'Africa",
+     "img": "p/cc4b953b6642.jpg"
     }
    ],
    "next": {
     "titre": "Si Live",
-    "d": 1794650400
+    "d": 1794652200
    }
   },
   "SIC": {
@@ -2710,18 +2668,12 @@
   },
   "Aaj Tak": {
    "now": {
-    "d": 1794649500,
-    "f": 1794650400,
+    "d": 1794650400,
+    "f": 1794652200,
     "titre": "News",
     "img": "p/237e775aa94e.jpg"
    },
    "prog": [
-    {
-     "d": 1794649500,
-     "f": 1794650400,
-     "titre": "News",
-     "img": "p/237e775aa94e.jpg"
-    },
     {
      "d": 1794650400,
      "f": 1794652200,
@@ -2763,27 +2715,27 @@
      "f": 1794664800,
      "titre": "Aajtak 7 Baje",
      "img": "p/702fa4bf14fe.jpg"
+    },
+    {
+     "d": 1794664800,
+     "f": 1794666300,
+     "titre": "Vishesh",
+     "img": "p/f30e6362118d.jpg"
     }
    ],
    "next": {
     "titre": "News",
-    "d": 1794650400
+    "d": 1794652200
    }
   },
   "CNBC-TV18": {
    "now": {
-    "d": 1794648600,
-    "f": 1794650400,
+    "d": 1794650400,
+    "f": 1794652200,
     "titre": "CNBC-TV18 Focus",
     "img": "p/817e13bfbcb6.jpg"
    },
    "prog": [
-    {
-     "d": 1794648600,
-     "f": 1794650400,
-     "titre": "CNBC-TV18 Focus",
-     "img": "p/817e13bfbcb6.jpg"
-    },
     {
      "d": 1794650400,
      "f": 1794652200,
@@ -2825,27 +2777,27 @@
      "f": 1794663000,
      "titre": "CNBC-TV18 Focus",
      "img": "p/817e13bfbcb6.jpg"
+    },
+    {
+     "d": 1794663000,
+     "f": 1794664800,
+     "titre": "CNBC-TV18 Editorial",
+     "img": "p/12443272a11d.jpg"
     }
    ],
    "next": {
     "titre": "CNBC-TV18 Focus",
-    "d": 1794650400
+    "d": 1794652200
    }
   },
   "Record News": {
    "now": {
-    "d": 1794648600,
-    "f": 1794650400,
-    "titre": "Nosso Tempo",
-    "img": "p/93d78b482b70.jpg"
+    "d": 1794650400,
+    "f": 1794654000,
+    "titre": "Agro Record News",
+    "img": "p/f2c7ca7f8a0b.jpg"
    },
    "prog": [
-    {
-     "d": 1794648600,
-     "f": 1794650400,
-     "titre": "Nosso Tempo",
-     "img": "p/93d78b482b70.jpg"
-    },
     {
      "d": 1794650400,
      "f": 1794654000,
@@ -2890,24 +2842,18 @@
     }
    ],
    "next": {
-    "titre": "Agro Record News",
-    "d": 1794650400
+    "titre": "Geek Record News",
+    "d": 1794654000
    }
   },
   "Canal Once": {
    "now": {
-    "d": 1794646800,
-    "f": 1794650400,
-    "titre": "Paramédicos",
-    "img": "p/618dd41e8996.jpg"
+    "d": 1794650400,
+    "f": 1794652200,
+    "titre": "D Todo",
+    "img": "p/b6766aa6cf86.jpg"
    },
    "prog": [
-    {
-     "d": 1794646800,
-     "f": 1794650400,
-     "titre": "Paramédicos",
-     "img": "p/618dd41e8996.jpg"
-    },
     {
      "d": 1794650400,
      "f": 1794652200,
@@ -2949,27 +2895,27 @@
      "f": 1794670200,
      "titre": "Diversos somos",
      "img": "p/db0601226487.jpg"
+    },
+    {
+     "d": 1794670200,
+     "f": 1794672000,
+     "titre": "Conmemoraciones",
+     "img": "p/b9623acf8278.jpg"
     }
    ],
    "next": {
-    "titre": "D Todo",
-    "d": 1794650400
+    "titre": "Aquí nos tocó vivir",
+    "d": 1794652200
    }
   },
   "Al Arabiya": {
    "now": {
-    "d": 1794647100,
-    "f": 1794650400,
-    "titre": "Mahal Niqash",
-    "img": "p/691f3fee1f32.jpg"
+    "d": 1794650400,
+    "f": 1794652200,
+    "titre": "Al Arabiya News",
+    "img": "p/09827c47a2d5.jpg"
    },
    "prog": [
-    {
-     "d": 1794647100,
-     "f": 1794650400,
-     "titre": "Mahal Niqash",
-     "img": "p/691f3fee1f32.jpg"
-    },
     {
      "d": 1794650400,
      "f": 1794652200,
@@ -3011,11 +2957,17 @@
      "f": 1794672000,
      "titre": "Fil Marma",
      "img": "p/bb15c83e5a33.jpg"
+    },
+    {
+     "d": 1794672000,
+     "f": 1794675600,
+     "titre": "Al Arabiya News",
+     "img": "p/09827c47a2d5.jpg"
     }
    ],
    "next": {
-    "titre": "Al Arabiya News",
-    "d": 1794650400
+    "titre": "Sports News",
+    "d": 1794652200
    }
   },
   "TRT 1": {
@@ -3043,6 +2995,12 @@
      "f": 1794672000,
      "titre": "Turgay Başyayla ile Lezzetli Tavsiye",
      "img": "p/2bcd57ce5b39.jpg"
+    },
+    {
+     "d": 1794672000,
+     "f": 1794675600,
+     "titre": "Ana Haber",
+     "img": "p/f23ff53280c7.jpg"
     }
    ],
    "next": {
