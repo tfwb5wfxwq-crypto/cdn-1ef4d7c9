@@ -1,26 +1,21 @@
 {
- "maj": 1794669014,
- "maj_iso": "2026-11-14 16:10",
+ "maj": 1794670889,
+ "maj_iso": "2026-11-14 16:41",
  "v": 2,
  "chaines": {
   "LiveNOW from FOX": {
    "f": "livenow-from-fox.jpg",
-   "t": 1794669014
+   "t": 1794670889
   },
   "NHL Network": {
    "f": "nhl-network.jpg",
    "t": 1794669014,
    "now": {
-    "d": 1794668400,
-    "f": 1794670200,
+    "d": 1794670200,
+    "f": 1794672000,
     "titre": "On the Fly"
    },
    "prog": [
-    {
-     "d": 1794668400,
-     "f": 1794670200,
-     "titre": "On the Fly"
-    },
     {
      "d": 1794670200,
      "f": 1794672000,
@@ -51,16 +46,21 @@
      "d": 1794690000,
      "f": 1794691800,
      "titre": "Live: NHL Tonight"
+    },
+    {
+     "d": 1794691800,
+     "f": 1794693600,
+     "titre": "NHL Tonight"
     }
    ],
    "next": {
     "titre": "On the Fly",
-    "d": 1794670200
+    "d": 1794672000
    }
   },
   "CNA": {
    "f": "cna.jpg",
-   "t": 1794669014,
+   "t": 1794670889,
    "now": {
     "d": 1794668580,
     "f": 1794672000,
@@ -148,58 +148,13 @@
     "d": 1794677400
    }
   },
-  "La 1": {
-   "f": "la-1.jpg",
-   "t": 1794667133,
-   "now": {
-    "d": 1794668100,
-    "f": 1794671100,
-    "titre": "Telediario 1"
-   },
-   "prog": [
-    {
-     "d": 1794668100,
-     "f": 1794671100,
-     "titre": "Telediario 1"
-    },
-    {
-     "d": 1794671100,
-     "f": 1794671400,
-     "titre": "Teledeporte 1"
-    },
-    {
-     "d": 1794671400,
-     "f": 1794671700,
-     "titre": "La Suerte En Tus Manos"
-    },
-    {
-     "d": 1794671700,
-     "f": 1794677700,
-     "titre": "Sesion De Tarde El Mayordomo Ingles"
-    },
-    {
-     "d": 1794677700,
-     "f": 1794684300,
-     "titre": "Sesion De Tarde Diana"
-    },
-    {
-     "d": 1794684300,
-     "f": 1794689700,
-     "titre": "Cosas Nuestras"
-    }
-   ],
-   "next": {
-    "titre": "Teledeporte 1",
-    "d": 1794671100
-   }
-  },
   "CGTN Documentary": {
    "f": "cgtn-documentary.jpg",
-   "t": 1794669014
+   "t": 1794670889
   },
   "TV Cultura": {
    "f": "tv-cultura.jpg",
-   "t": 1794669014
+   "t": 1794670889
   },
   "Imagen Televisión": {
    "f": "imagen-television.jpg",
@@ -207,31 +162,21 @@
   },
   "Quiero TV": {
    "f": "quiero-tv.jpg",
-   "t": 1794669014
+   "t": 1794670889
   },
   "Global News": {
    "f": "global-news.jpg",
-   "t": 1794669014
+   "t": 1794670889
   },
   "ABC News Australia": {
    "f": "abc-news-australia.jpg",
-   "t": 1794669014,
+   "t": 1794670889,
    "now": {
-    "d": 1794668400,
-    "f": 1794669300,
-    "titre": "DW News"
+    "d": 1794670260,
+    "f": 1794672000,
+    "titre": "Asia News Week"
    },
    "prog": [
-    {
-     "d": 1794668400,
-     "f": 1794669300,
-     "titre": "DW News"
-    },
-    {
-     "d": 1794669300,
-     "f": 1794670260,
-     "titre": "ABC News Overnight"
-    },
     {
      "d": 1794670260,
      "f": 1794672000,
@@ -261,27 +206,32 @@
      "d": 1794676560,
      "f": 1794677040,
      "titre": "BTN High"
+    },
+    {
+     "d": 1794677040,
+     "f": 1794681060,
+     "titre": "National Press Club Address"
+    },
+    {
+     "d": 1794681060,
+     "f": 1794682800,
+     "titre": "The Breakfast Couch"
     }
    ],
    "next": {
-    "titre": "ABC News Overnight",
-    "d": 1794669300
+    "titre": "DW News",
+    "d": 1794672000
    }
   },
   "Al Jazeera Arabic": {
    "f": "al-jazeera-arabic.jpg",
-   "t": 1794669014,
+   "t": 1794670889,
    "now": {
-    "d": 1794668400,
-    "f": 1794670200,
-    "titre": "News Bulletin"
+    "d": 1794670200,
+    "f": 1794672000,
+    "titre": "Economic Bulletin"
    },
    "prog": [
-    {
-     "d": 1794668400,
-     "f": 1794670200,
-     "titre": "News Bulletin"
-    },
     {
      "d": 1794670200,
      "f": 1794672000,
@@ -316,27 +266,27 @@
      "d": 1794679500,
      "f": 1794690000,
      "titre": "Century Witness"
+    },
+    {
+     "d": 1794690000,
+     "f": 1794693600,
+     "titre": "News Bulletin"
     }
    ],
    "next": {
-    "titre": "Economic Bulletin",
-    "d": 1794670200
+    "titre": "News Bulletin",
+    "d": 1794672000
    }
   },
   "MBC 1": {
    "f": "mbc-1.jpg",
-   "t": 1794669014,
+   "t": 1794670889,
    "now": {
-    "d": 1794654000,
-    "f": 1794670200,
-    "titre": "MBC In A Week"
+    "d": 1794670200,
+    "f": 1794675600,
+    "titre": "Women Talks"
    },
    "prog": [
-    {
-     "d": 1794654000,
-     "f": 1794670200,
-     "titre": "MBC In A Week"
-    },
     {
      "d": 1794670200,
      "f": 1794675600,
@@ -366,16 +316,21 @@
      "d": 1794686400,
      "f": 1794691800,
      "titre": "Our Club"
+    },
+    {
+     "d": 1794691800,
+     "f": 1794693600,
+     "titre": "The Floor"
     }
    ],
    "next": {
-    "titre": "Women Talks",
-    "d": 1794670200
+    "titre": "Meeting From Zero",
+    "d": 1794675600
    }
   },
   "TRT Haber": {
    "f": "trt-haber.jpg",
-   "t": 1794669014,
+   "t": 1794670889,
    "now": {
     "d": 1794668400,
     "f": 1794672000,
@@ -423,7 +378,7 @@
   },
   "Kan 11": {
    "f": "kan-11.jpg",
-   "t": 1794669014,
+   "t": 1794670889,
    "now": {
     "d": 1794663000,
     "f": 1794672000,
@@ -459,6 +414,16 @@
      "d": 1794687000,
      "f": 1794690900,
      "titre": "מה היא חושבת לעצמה"
+    },
+    {
+     "d": 1794690900,
+     "f": 1794691200,
+     "titre": "ישיר! מבזק חדשות"
+    },
+    {
+     "d": 1794691200,
+     "f": 1794694920,
+     "titre": "ערב עם שי שטרן"
     }
    ],
    "next": {
@@ -468,7 +433,7 @@
   },
   "TV Puls": {
    "f": "tv-puls.jpg",
-   "t": 1794669014,
+   "t": 1794670889,
    "now": {
     "d": 1794668400,
     "f": 1794672000,
@@ -648,6 +613,12 @@
      "f": 1794691560,
      "titre": "Saturday Night Live",
      "img": "p/095f71ff8f88.jpg"
+    },
+    {
+     "d": 1794691560,
+     "f": 1794694920,
+     "titre": "Saturday Night Live",
+     "img": "p/095f71ff8f88.jpg"
     }
    ],
    "next": {
@@ -657,18 +628,12 @@
   },
   "NBC Comedy Vault": {
    "now": {
-    "d": 1794668520,
-    "f": 1794669960,
+    "d": 1794669960,
+    "f": 1794671340,
     "titre": "Will & Grace",
     "img": "p/7d4b241b5400.jpg"
    },
    "prog": [
-    {
-     "d": 1794668520,
-     "f": 1794669960,
-     "titre": "Will & Grace",
-     "img": "p/7d4b241b5400.jpg"
-    },
     {
      "d": 1794669960,
      "f": 1794671340,
@@ -710,27 +675,27 @@
      "f": 1794679800,
      "titre": "Will & Grace",
      "img": "p/7d4b241b5400.jpg"
+    },
+    {
+     "d": 1794679800,
+     "f": 1794681180,
+     "titre": "Will & Grace",
+     "img": "p/7d4b241b5400.jpg"
     }
    ],
    "next": {
     "titre": "Will & Grace",
-    "d": 1794669960
+    "d": 1794671340
    }
   },
   "Hell's Kitchen": {
    "now": {
-    "d": 1794666380,
-    "f": 1794669497,
+    "d": 1794669497,
+    "f": 1794672615,
     "titre": "Hell's Kitchen",
     "img": "p/25fd69590741.jpg"
    },
    "prog": [
-    {
-     "d": 1794666380,
-     "f": 1794669497,
-     "titre": "Hell's Kitchen",
-     "img": "p/25fd69590741.jpg"
-    },
     {
      "d": 1794669497,
      "f": 1794672615,
@@ -770,7 +735,7 @@
    ],
    "next": {
     "titre": "Hell's Kitchen",
-    "d": 1794669497
+    "d": 1794672615
    }
   },
   "Red Bull TV": {
@@ -837,18 +802,12 @@
   },
   "PBS Kids": {
    "now": {
-    "d": 1794668400,
-    "f": 1794670200,
-    "titre": "Daniel Tiger's Neighborhood",
-    "img": "p/48480deef376.jpg"
+    "d": 1794670200,
+    "f": 1794672000,
+    "titre": "Super Why's Comic Book Adventures",
+    "img": "p/c7ce6360a759.jpg"
    },
    "prog": [
-    {
-     "d": 1794668400,
-     "f": 1794670200,
-     "titre": "Daniel Tiger's Neighborhood",
-     "img": "p/48480deef376.jpg"
-    },
     {
      "d": 1794670200,
      "f": 1794672000,
@@ -890,27 +849,27 @@
      "f": 1794682800,
      "titre": "Rosie's Rules",
      "img": "p/d2af55255376.jpg"
+    },
+    {
+     "d": 1794682800,
+     "f": 1794684600,
+     "titre": "Super Why's Comic Book Adventures",
+     "img": "p/c7ce6360a759.jpg"
     }
    ],
    "next": {
-    "titre": "Super Why's Comic Book Adventures",
-    "d": 1794670200
+    "titre": "Carl the Collector",
+    "d": 1794672000
    }
   },
   "Scripps News": {
    "now": {
-    "d": 1794668400,
-    "f": 1794670200,
-    "titre": "Catch Me Up With Jon Leiberman",
-    "img": "p/4b6e05840c9a.jpg"
+    "d": 1794670200,
+    "f": 1794672000,
+    "titre": "Caught On... Clips",
+    "img": "p/29f7d42c1e1f.jpg"
    },
    "prog": [
-    {
-     "d": 1794668400,
-     "f": 1794670200,
-     "titre": "Catch Me Up With Jon Leiberman",
-     "img": "p/4b6e05840c9a.jpg"
-    },
     {
      "d": 1794670200,
      "f": 1794672000,
@@ -955,8 +914,8 @@
     }
    ],
    "next": {
-    "titre": "Caught On... Clips",
-    "d": 1794670200
+    "titre": "Scripps News Weekend",
+    "d": 1794672000
    }
   },
   "Fox Weather": {
@@ -987,18 +946,12 @@
   },
   "Dateline 24/7": {
    "now": {
-    "d": 1794666840,
-    "f": 1794669660,
+    "d": 1794669660,
+    "f": 1794672480,
     "titre": "Dateline NBC",
     "img": "p/68efa03c9cbf.jpg"
    },
    "prog": [
-    {
-     "d": 1794666840,
-     "f": 1794669660,
-     "titre": "Dateline NBC",
-     "img": "p/68efa03c9cbf.jpg"
-    },
     {
      "d": 1794669660,
      "f": 1794672480,
@@ -1032,23 +985,17 @@
    ],
    "next": {
     "titre": "Dateline NBC",
-    "d": 1794669660
+    "d": 1794672480
    }
   },
   "Comet": {
    "now": {
-    "d": 1794668400,
-    "f": 1794670200,
-    "titre": "2026 Silver Eagle is here & it is a once-in-a-lifetime coin!",
-    "img": "p/e7d1a525c058.jpg"
+    "d": 1794670200,
+    "f": 1794672000,
+    "titre": "Looking for a Medicare plan? Tune in now!",
+    "img": "p/476fb5bf2c33.jpg"
    },
    "prog": [
-    {
-     "d": 1794668400,
-     "f": 1794670200,
-     "titre": "2026 Silver Eagle is here & it is a once-in-a-lifetime coin!",
-     "img": "p/e7d1a525c058.jpg"
-    },
     {
      "d": 1794670200,
      "f": 1794672000,
@@ -1093,8 +1040,8 @@
     }
    ],
    "next": {
-    "titre": "Looking for a Medicare plan? Tune in now!",
-    "d": 1794670200
+    "titre": "The Outer Limits",
+    "d": 1794672000
    }
   },
   "Newsmax": {
@@ -1205,18 +1152,12 @@
   },
   "BBC News": {
    "now": {
-    "d": 1794668400,
-    "f": 1794670200,
+    "d": 1794670200,
+    "f": 1794671100,
     "titre": "BBC News",
-    "img": "p/b72a37f97ac1.jpg"
+    "img": "p/b1fc198aad1d.jpg"
    },
    "prog": [
-    {
-     "d": 1794668400,
-     "f": 1794670200,
-     "titre": "BBC News",
-     "img": "p/b72a37f97ac1.jpg"
-    },
     {
      "d": 1794670200,
      "f": 1794671100,
@@ -1258,11 +1199,17 @@
      "f": 1794682800,
      "titre": "BBC News including Sport",
      "img": "p/6eafa96b19c7.jpg"
+    },
+    {
+     "d": 1794682800,
+     "f": 1794684600,
+     "titre": "BBC News",
+     "img": "p/27f0cc768474.jpg"
     }
    ],
    "next": {
-    "titre": "BBC News",
-    "d": 1794670200
+    "titre": "Newswatch",
+    "d": 1794671100
    }
   },
   "Bloomberg TV": {
@@ -1329,30 +1276,12 @@
   },
   "France 24 English": {
    "now": {
-    "d": 1794668400,
-    "f": 1794669240,
+    "d": 1794670200,
+    "f": 1794671040,
     "titre": "News",
-    "img": "p/8f1b24e636d8.jpg"
+    "img": "p/19d0f7d99756.jpg"
    },
    "prog": [
-    {
-     "d": 1794668400,
-     "f": 1794669240,
-     "titre": "News",
-     "img": "p/8f1b24e636d8.jpg"
-    },
-    {
-     "d": 1794669240,
-     "f": 1794669660,
-     "titre": "French Connections",
-     "img": "p/22577dc9f102.jpg"
-    },
-    {
-     "d": 1794669660,
-     "f": 1794670200,
-     "titre": "Entre Nous",
-     "img": "p/2cfe19ca0cbc.jpg"
-    },
     {
      "d": 1794670200,
      "f": 1794671040,
@@ -1382,33 +1311,39 @@
      "f": 1794674640,
      "titre": "News",
      "img": "p/6b376154f421.jpg"
+    },
+    {
+     "d": 1794674640,
+     "f": 1794675600,
+     "titre": "Tete a tete",
+     "img": "p/dd316f4941b5.jpg"
+    },
+    {
+     "d": 1794675600,
+     "f": 1794676500,
+     "titre": "News",
+     "img": "p/81245e0cfa53.jpg"
+    },
+    {
+     "d": 1794676500,
+     "f": 1794677400,
+     "titre": "Spotlight",
+     "img": "p/c777275a67e5.jpg"
     }
    ],
    "next": {
-    "titre": "French Connections",
-    "d": 1794669240
+    "titre": "Arts24",
+    "d": 1794671040
    }
   },
   "DW English": {
    "now": {
-    "d": 1794668400,
-    "f": 1794669300,
-    "titre": "DW News",
-    "img": "p/5179439ab1ab.jpg"
+    "d": 1794670200,
+    "f": 1794672000,
+    "titre": "Euromaxx - Lifestyle Europe",
+    "img": "p/3909ab05ea7a.jpg"
    },
    "prog": [
-    {
-     "d": 1794668400,
-     "f": 1794669300,
-     "titre": "DW News",
-     "img": "p/5179439ab1ab.jpg"
-    },
-    {
-     "d": 1794669300,
-     "f": 1794670200,
-     "titre": "Mapped Out",
-     "img": "p/c6502f64d19e.jpg"
-    },
     {
      "d": 1794670200,
      "f": 1794672000,
@@ -1444,39 +1379,33 @@
      "f": 1794679200,
      "titre": "The 77 Percent",
      "img": "p/ac3ba4782016.jpg"
+    },
+    {
+     "d": 1794679200,
+     "f": 1794680100,
+     "titre": "DW News",
+     "img": "p/5179439ab1ab.jpg"
+    },
+    {
+     "d": 1794680100,
+     "f": 1794681000,
+     "titre": "Reporter -- On Location",
+     "img": "p/85690b4769be.jpg"
     }
    ],
    "next": {
-    "titre": "Mapped Out",
-    "d": 1794669300
+    "titre": "DW News",
+    "d": 1794672000
    }
   },
   "Euronews English": {
    "now": {
-    "d": 1794668400,
-    "f": 1794669120,
-    "titre": "5 Minutes",
-    "img": "p/f5e53ade83c1.jpg"
+    "d": 1794670500,
+    "f": 1794671040,
+    "titre": "The Ring",
+    "img": "p/191e86299f78.jpg"
    },
    "prog": [
-    {
-     "d": 1794668400,
-     "f": 1794669120,
-     "titre": "5 Minutes",
-     "img": "p/f5e53ade83c1.jpg"
-    },
-    {
-     "d": 1794669120,
-     "f": 1794670200,
-     "titre": "The Ring",
-     "img": "p/aae8b04953a3.jpg"
-    },
-    {
-     "d": 1794670200,
-     "f": 1794670500,
-     "titre": "5 Minutes",
-     "img": "p/e2cc4b89c904.jpg"
-    },
     {
      "d": 1794670500,
      "f": 1794671040,
@@ -1506,11 +1435,29 @@
      "f": 1794674100,
      "titre": "5 Minutes",
      "img": "p/c89ba630fe48.jpg"
+    },
+    {
+     "d": 1794674100,
+     "f": 1794674820,
+     "titre": "News",
+     "img": "p/16080d131cdd.jpg"
+    },
+    {
+     "d": 1794674820,
+     "f": 1794675600,
+     "titre": "Made in europe",
+     "img": "p/bfc650a5fa25.jpg"
+    },
+    {
+     "d": 1794675600,
+     "f": 1794676320,
+     "titre": "5 Minutes",
+     "img": "p/88c42d43d945.jpg"
     }
    ],
    "next": {
-    "titre": "The Ring",
-    "d": 1794669120
+    "titre": "News",
+    "d": 1794671040
    }
   },
   "Al Jazeera English": {
@@ -1577,18 +1524,12 @@
   },
   "TRT World": {
    "now": {
-    "d": 1794668400,
-    "f": 1794670200,
-    "titre": "The Newsmakers",
-    "img": "p/b13cc0efbdd3.jpg"
+    "d": 1794670200,
+    "f": 1794672000,
+    "titre": "Strait Talk",
+    "img": "p/e38fa39cb8c5.jpg"
    },
    "prog": [
-    {
-     "d": 1794668400,
-     "f": 1794670200,
-     "titre": "The Newsmakers",
-     "img": "p/b13cc0efbdd3.jpg"
-    },
     {
      "d": 1794670200,
      "f": 1794672000,
@@ -1630,27 +1571,27 @@
      "f": 1794682800,
      "titre": "Just 2 Degrees",
      "img": "p/a9f13e74b9fc.jpg"
+    },
+    {
+     "d": 1794682800,
+     "f": 1794684600,
+     "titre": "News",
+     "img": "p/3db805baa775.jpg"
     }
    ],
    "next": {
-    "titre": "Strait Talk",
-    "d": 1794670200
+    "titre": "News",
+    "d": 1794672000
    }
   },
   "CGTN": {
    "now": {
-    "d": 1794668400,
-    "f": 1794670200,
-    "titre": "The World Today",
-    "img": "p/8905a7adb662.jpg"
+    "d": 1794670200,
+    "f": 1794672000,
+    "titre": "The Inheritors",
+    "img": "p/ecc3036ff9b4.jpg"
    },
    "prog": [
-    {
-     "d": 1794668400,
-     "f": 1794670200,
-     "titre": "The World Today",
-     "img": "p/8905a7adb662.jpg"
-    },
     {
      "d": 1794670200,
      "f": 1794672000,
@@ -1692,27 +1633,27 @@
      "f": 1794682800,
      "titre": "Talk Africa",
      "img": "p/da6a567c462f.jpg"
+    },
+    {
+     "d": 1794682800,
+     "f": 1794684600,
+     "titre": "The World Today",
+     "img": "p/8905a7adb662.jpg"
     }
    ],
    "next": {
-    "titre": "The Inheritors",
-    "d": 1794670200
+    "titre": "The World Today",
+    "d": 1794672000
    }
   },
   "NHK World-Japan": {
    "now": {
-    "d": 1794668400,
-    "f": 1794669000,
-    "titre": "NHK Newsline",
-    "img": "p/7e5314d8a884.jpg"
+    "d": 1794669000,
+    "f": 1794672000,
+    "titre": "Cycle Around Taiwan",
+    "img": "p/63e19a3ef7cd.jpg"
    },
    "prog": [
-    {
-     "d": 1794668400,
-     "f": 1794669000,
-     "titre": "NHK Newsline",
-     "img": "p/7e5314d8a884.jpg"
-    },
     {
      "d": 1794669000,
      "f": 1794672000,
@@ -1753,39 +1694,27 @@
      "f": 1794675600,
      "titre": "Sumopedia",
      "img": "p/b9b87bdc60bb.jpg"
+    },
+    {
+     "d": 1794675600,
+     "f": 1794676200,
+     "titre": "NHK Newsline",
+     "img": "p/2a606e2eaa84.jpg"
     }
    ],
    "next": {
-    "titre": "Cycle Around Taiwan",
-    "d": 1794669000
+    "titre": "NHK Newsline",
+    "d": 1794672000
    }
   },
   "France 24 Français": {
    "now": {
-    "d": 1794668400,
-    "f": 1794668940,
-    "titre": "Autour du monde : le journal",
-    "img": "p/4ab9983b5a9a.jpg"
+    "d": 1794670800,
+    "f": 1794671700,
+    "titre": "C'est en France",
+    "img": "p/a7e70128b929.jpg"
    },
    "prog": [
-    {
-     "d": 1794668400,
-     "f": 1794668940,
-     "titre": "Autour du monde : le journal",
-     "img": "p/4ab9983b5a9a.jpg"
-    },
-    {
-     "d": 1794668940,
-     "f": 1794670200,
-     "titre": "Billet retour",
-     "img": "p/5b0179bd6726.jpg"
-    },
-    {
-     "d": 1794670200,
-     "f": 1794670800,
-     "titre": "Autour du monde : le journal",
-     "img": "p/4ab9983b5a9a.jpg"
-    },
     {
      "d": 1794670800,
      "f": 1794671700,
@@ -1815,45 +1744,39 @@
      "f": 1794673800,
      "titre": "Focus",
      "img": "p/3f4187d4fc61.jpg"
+    },
+    {
+     "d": 1794673800,
+     "f": 1794674700,
+     "titre": "Autour du monde : le journal",
+     "img": "p/4ab9983b5a9a.jpg"
+    },
+    {
+     "d": 1794674700,
+     "f": 1794675060,
+     "titre": "Les observateurs",
+     "img": "p/0382d5af682a.jpg"
+    },
+    {
+     "d": 1794675060,
+     "f": 1794675600,
+     "titre": "Dans les hebdos",
+     "img": "p/90eafa8da9d2.jpg"
     }
    ],
    "next": {
-    "titre": "Billet retour",
-    "d": 1794668940
+    "titre": "L'instant mobile",
+    "d": 1794671700
    }
   },
   "TV5Monde Info": {
    "now": {
-    "d": 1794668400,
-    "f": 1794669000,
-    "titre": "Outremer.L'Info",
-    "img": "p/a90a20e2fd1a.jpg"
+    "d": 1794670800,
+    "f": 1794671400,
+    "titre": "64' Le Monde En Français",
+    "img": "p/5254f14cb9b3.jpg"
    },
    "prog": [
-    {
-     "d": 1794668400,
-     "f": 1794669000,
-     "titre": "Outremer.L'Info",
-     "img": "p/a90a20e2fd1a.jpg"
-    },
-    {
-     "d": 1794669000,
-     "f": 1794669600,
-     "titre": "TV5MONDE, Le Journal",
-     "img": "p/a238791138d7.jpg"
-    },
-    {
-     "d": 1794669600,
-     "f": 1794670200,
-     "titre": "64' Le Monde En Français",
-     "img": "p/5254f14cb9b3.jpg"
-    },
-    {
-     "d": 1794670200,
-     "f": 1794670800,
-     "titre": "Outremer.L'Info",
-     "img": "p/a90a20e2fd1a.jpg"
-    },
     {
      "d": 1794670800,
      "f": 1794671400,
@@ -1877,11 +1800,35 @@
      "f": 1794673800,
      "titre": "Le Journal De La RTS",
      "img": "p/1ab717de0dd7.jpg"
+    },
+    {
+     "d": 1794673800,
+     "f": 1794674400,
+     "titre": "L'Invité",
+     "img": "p/19d9bf92614f.jpg"
+    },
+    {
+     "d": 1794674400,
+     "f": 1794675000,
+     "titre": "64' Le Monde En Français",
+     "img": "p/5254f14cb9b3.jpg"
+    },
+    {
+     "d": 1794675000,
+     "f": 1794676200,
+     "titre": "Le Journal De France 2",
+     "img": "p/295cb24b8aed.jpg"
+    },
+    {
+     "d": 1794676200,
+     "f": 1794676800,
+     "titre": "64' Le Monde En Français",
+     "img": "p/5254f14cb9b3.jpg"
     }
    ],
    "next": {
-    "titre": "TV5MONDE, Le Journal",
-    "d": 1794669000
+    "titre": "64' Le Monde En Français",
+    "d": 1794671400
    }
   },
   "Arte": {
@@ -1933,6 +1880,12 @@
      "f": 1794691500,
      "titre": "Saint-Pierre de Rome : Le plus grand chantier de la Renaissance",
      "img": "p/e6085d233c6c.jpg"
+    },
+    {
+     "d": 1794691500,
+     "f": 1794697200,
+     "titre": "Vatican : La cité qui voulait devenir éternelle",
+     "img": "p/322dbf14c83d.jpg"
     }
    ],
    "next": {
@@ -1942,18 +1895,12 @@
   },
   "The Graham Norton Show": {
    "now": {
-    "d": 1794667313,
-    "f": 1794669350,
-    "titre": "Series 14 Compilation Episode",
-    "img": "p/a29c79afb575.jpg"
+    "d": 1794669350,
+    "f": 1794671737,
+    "titre": "Series 15 Compilation Episode",
+    "img": "p/89d92f0b191b.jpg"
    },
    "prog": [
-    {
-     "d": 1794667313,
-     "f": 1794669350,
-     "titre": "Series 14 Compilation Episode",
-     "img": "p/a29c79afb575.jpg"
-    },
     {
      "d": 1794669350,
      "f": 1794671737,
@@ -1998,24 +1945,18 @@
     }
    ],
    "next": {
-    "titre": "Series 15 Compilation Episode",
-    "d": 1794669350
+    "titre": "Series 16 Compilation Episode",
+    "d": 1794671737
    }
   },
   "Doctor Who Classic": {
    "now": {
-    "d": 1794667560,
-    "f": 1794669360,
+    "d": 1794669360,
+    "f": 1794670980,
     "titre": "Classic Doctor Who",
     "img": "p/86b702371148.jpg"
    },
    "prog": [
-    {
-     "d": 1794667560,
-     "f": 1794669360,
-     "titre": "Classic Doctor Who",
-     "img": "p/86b702371148.jpg"
-    },
     {
      "d": 1794669360,
      "f": 1794670980,
@@ -2057,11 +1998,17 @@
      "f": 1794681120,
      "titre": "Doctor Who",
      "img": "p/b00648502ba8.jpg"
+    },
+    {
+     "d": 1794681120,
+     "f": 1794682800,
+     "titre": "Doctor Who",
+     "img": "p/b00648502ba8.jpg"
     }
    ],
    "next": {
     "titre": "Classic Doctor Who",
-    "d": 1794669360
+    "d": 1794670980
    }
   },
   "GB News": {
@@ -2166,18 +2113,12 @@
   },
   "tagesschau24": {
    "now": {
-    "d": 1794668400,
-    "f": 1794670200,
-    "titre": "Tagesschau-Nachrichten",
-    "img": "p/d2d3cf4efffb.jpg"
+    "d": 1794670200,
+    "f": 1794672000,
+    "titre": "Weltbilder",
+    "img": "p/b8333e6c2a5d.jpg"
    },
    "prog": [
-    {
-     "d": 1794668400,
-     "f": 1794670200,
-     "titre": "Tagesschau-Nachrichten",
-     "img": "p/d2d3cf4efffb.jpg"
-    },
     {
      "d": 1794670200,
      "f": 1794672000,
@@ -2219,27 +2160,27 @@
      "f": 1794682800,
      "titre": "Panorama 3",
      "img": "p/658b97a62c1e.jpg"
+    },
+    {
+     "d": 1794682800,
+     "f": 1794683700,
+     "titre": "Tagesschau",
+     "img": "p/ab32f7c49741.jpg"
     }
    ],
    "next": {
-    "titre": "Weltbilder",
-    "d": 1794670200
+    "titre": "Tagesschau-Nachrichten",
+    "d": 1794672000
    }
   },
   "Arte (Deutsch)": {
    "now": {
-    "d": 1794663600,
-    "f": 1794670500,
-    "titre": "Absolute Power",
-    "img": "p/da38e069fd2b.jpg"
+    "d": 1794670500,
+    "f": 1794676200,
+    "titre": "Die Anden – Im Bann der Urkräfte",
+    "img": "p/63ef0bce7e05.jpg"
    },
    "prog": [
-    {
-     "d": 1794663600,
-     "f": 1794670500,
-     "titre": "Absolute Power",
-     "img": "p/da38e069fd2b.jpg"
-    },
     {
      "d": 1794670500,
      "f": 1794676200,
@@ -2284,8 +2225,8 @@
     }
    ],
    "next": {
-    "titre": "Die Anden – Im Bann der Urkräfte",
-    "d": 1794670500
+    "titre": "Mit offenen Karten",
+    "d": 1794676200
    }
   },
   "ARD alpha": {
@@ -2350,20 +2291,57 @@
     "d": 1794672000
    }
   },
-  "Canal 24 Horas": {
+  "La 1": {
    "now": {
-    "d": 1794668400,
-    "f": 1794670200,
-    "titre": "Parlamento",
-    "img": "p/f90448bb98fd.jpg"
+    "d": 1794668100,
+    "f": 1794671100,
+    "titre": "Telediario 1"
    },
    "prog": [
     {
-     "d": 1794668400,
-     "f": 1794670200,
-     "titre": "Parlamento",
-     "img": "p/f90448bb98fd.jpg"
+     "d": 1794668100,
+     "f": 1794671100,
+     "titre": "Telediario 1"
     },
+    {
+     "d": 1794671100,
+     "f": 1794671400,
+     "titre": "Teledeporte 1"
+    },
+    {
+     "d": 1794671400,
+     "f": 1794671700,
+     "titre": "La Suerte En Tus Manos"
+    },
+    {
+     "d": 1794671700,
+     "f": 1794677700,
+     "titre": "Sesion De Tarde El Mayordomo Ingles"
+    },
+    {
+     "d": 1794677700,
+     "f": 1794684300,
+     "titre": "Sesion De Tarde Diana"
+    },
+    {
+     "d": 1794684300,
+     "f": 1794689700,
+     "titre": "Cosas Nuestras"
+    }
+   ],
+   "next": {
+    "titre": "Teledeporte 1",
+    "d": 1794671100
+   }
+  },
+  "Canal 24 Horas": {
+   "now": {
+    "d": 1794670200,
+    "f": 1794672000,
+    "titre": "Europa",
+    "img": "p/205e76a12de4.jpg"
+   },
+   "prog": [
     {
      "d": 1794670200,
      "f": 1794672000,
@@ -2405,27 +2383,27 @@
      "f": 1794682800,
      "titre": "Noticias 24h",
      "img": "p/43de0ecc6709.jpg"
+    },
+    {
+     "d": 1794682800,
+     "f": 1794684600,
+     "titre": "Noticias 24h",
+     "img": "p/43de0ecc6709.jpg"
     }
    ],
    "next": {
-    "titre": "Europa",
-    "d": 1794670200
+    "titre": "Noticias 24h",
+    "d": 1794672000
    }
   },
   "TVE Internacional": {
    "now": {
-    "d": 1794667800,
-    "f": 1794670800,
-    "titre": "Saber y ganar - Fin de semana",
-    "img": "p/745b382163d1.jpg"
+    "d": 1794670800,
+    "f": 1794673980,
+    "titre": "De tapas por España",
+    "img": "p/89e4a5f073a0.jpg"
    },
    "prog": [
-    {
-     "d": 1794667800,
-     "f": 1794670800,
-     "titre": "Saber y ganar - Fin de semana",
-     "img": "p/745b382163d1.jpg"
-    },
     {
      "d": 1794670800,
      "f": 1794673980,
@@ -2467,32 +2445,27 @@
      "f": 1794690000,
      "titre": "Informe semanal",
      "img": "p/f64e82b57e07.jpg"
+    },
+    {
+     "d": 1794690000,
+     "f": 1794690300,
+     "titre": "Historia de nuestro cine",
+     "img": "p/d187a8f4707f.jpg"
     }
    ],
    "next": {
     "titre": "De tapas por España",
-    "d": 1794670800
+    "d": 1794673980
    }
   },
   "DW Español": {
    "now": {
-    "d": 1794668400,
-    "f": 1794669300,
-    "titre": "Economía",
-    "img": "p/8374c782d171.jpg"
+    "d": 1794670200,
+    "f": 1794673800,
+    "titre": "ZonaDocu",
+    "img": "p/627c0eee5efd.jpg"
    },
    "prog": [
-    {
-     "d": 1794668400,
-     "f": 1794669300,
-     "titre": "Economía",
-     "img": "p/8374c782d171.jpg"
-    },
-    {
-     "d": 1794669300,
-     "f": 1794670200,
-     "titre": "Plaza Fráncfort"
-    },
     {
      "d": 1794670200,
      "f": 1794673800,
@@ -2527,11 +2500,23 @@
      "d": 1794680100,
      "f": 1794681000,
      "titre": "Actualidad en Análisis"
+    },
+    {
+     "d": 1794681000,
+     "f": 1794682800,
+     "titre": "Enfoque Europa",
+     "img": "p/88892341a0ce.jpg"
+    },
+    {
+     "d": 1794682800,
+     "f": 1794683700,
+     "titre": "Economía",
+     "img": "p/8374c782d171.jpg"
     }
    ],
    "next": {
-    "titre": "Plaza Fráncfort",
-    "d": 1794669300
+    "titre": "Aquí estoy",
+    "d": 1794673800
    }
   },
   "TV2000": {
@@ -2633,6 +2618,12 @@
      "f": 1794691800,
      "titre": "Si Live",
      "img": "p/19875c34367d.jpg"
+    },
+    {
+     "d": 1794691800,
+     "f": 1794693600,
+     "titre": "Si Live",
+     "img": "p/19875c34367d.jpg"
     }
    ],
    "next": {
@@ -2659,6 +2650,12 @@
      "f": 1794691800,
      "titre": "Jornal da Noite",
      "img": "p/2db1e0f05464.jpg"
+    },
+    {
+     "d": 1794691800,
+     "f": 1794698100,
+     "titre": "Terra Nossa",
+     "img": "p/ec6cc7b3d64c.jpg"
     }
    ],
    "next": {
@@ -2668,18 +2665,12 @@
   },
   "Arirang TV": {
    "now": {
-    "d": 1794668400,
-    "f": 1794670200,
-    "titre": "Diplomat's Archive: Hidden Stories",
-    "img": "p/1e1cca8be21a.jpg"
+    "d": 1794670200,
+    "f": 1794672000,
+    "titre": "Vibe In Action: K-Initiative",
+    "img": "p/0c3c13ad907c.jpg"
    },
    "prog": [
-    {
-     "d": 1794668400,
-     "f": 1794670200,
-     "titre": "Diplomat's Archive: Hidden Stories",
-     "img": "p/1e1cca8be21a.jpg"
-    },
     {
      "d": 1794670200,
      "f": 1794672000,
@@ -2721,27 +2712,27 @@
      "f": 1794678300,
      "titre": "K-Culture Minutes: K-Story",
      "img": "p/67db3f27a059.jpg"
+    },
+    {
+     "d": 1794678300,
+     "f": 1794679200,
+     "titre": "K-Culture Minutes: K-Stage",
+     "img": "p/a2e2b80ed49f.jpg"
     }
    ],
    "next": {
-    "titre": "Vibe In Action: K-Initiative",
-    "d": 1794670200
+    "titre": "Rewind It: I'm Live",
+    "d": 1794672000
    }
   },
   "Aaj Tak": {
    "now": {
-    "d": 1794668100,
-    "f": 1794669900,
-    "titre": "Adbhut Avishwasniya Akalpaniya",
-    "img": "p/e785e8486795.jpg"
+    "d": 1794669900,
+    "f": 1794672000,
+    "titre": "Bahas Bazigar",
+    "img": "p/27e8b5716a30.jpg"
    },
    "prog": [
-    {
-     "d": 1794668100,
-     "f": 1794669900,
-     "titre": "Adbhut Avishwasniya Akalpaniya",
-     "img": "p/e785e8486795.jpg"
-    },
     {
      "d": 1794669900,
      "f": 1794672000,
@@ -2783,27 +2774,27 @@
      "f": 1794681000,
      "titre": "Kahaani",
      "img": "p/96eae28f2a1f.jpg"
+    },
+    {
+     "d": 1794681000,
+     "f": 1794681600,
+     "titre": "News",
+     "img": "p/237e775aa94e.jpg"
     }
    ],
    "next": {
     "titre": "Bahas Bazigar",
-    "d": 1794669900
+    "d": 1794672000
    }
   },
   "CNBC-TV18": {
    "now": {
-    "d": 1794668400,
-    "f": 1794670200,
-    "titre": "Young Turks",
-    "img": "p/15f76d07a86c.jpg"
+    "d": 1794670200,
+    "f": 1794672000,
+    "titre": "Investment Guide",
+    "img": "p/a8cc13d934de.jpg"
    },
    "prog": [
-    {
-     "d": 1794668400,
-     "f": 1794670200,
-     "titre": "Young Turks",
-     "img": "p/15f76d07a86c.jpg"
-    },
     {
      "d": 1794670200,
      "f": 1794672000,
@@ -2845,27 +2836,27 @@
      "f": 1794686400,
      "titre": "CNBC Network",
      "img": "p/78191885a119.jpg"
+    },
+    {
+     "d": 1794686400,
+     "f": 1794688200,
+     "titre": "CNBC Special",
+     "img": "p/f1ae0e033b8b.jpg"
     }
    ],
    "next": {
-    "titre": "Investment Guide",
-    "d": 1794670200
+    "titre": "Smart Money",
+    "d": 1794672000
    }
   },
   "Record News": {
    "now": {
-    "d": 1794666600,
-    "f": 1794670200,
-    "titre": "Fala Brasil - Edição de Sábado",
-    "img": "p/214704b7f49f.jpg"
+    "d": 1794670200,
+    "f": 1794673800,
+    "titre": "Hora News - Edição de Sábado",
+    "img": "p/98d370d5f729.jpg"
    },
    "prog": [
-    {
-     "d": 1794666600,
-     "f": 1794670200,
-     "titre": "Fala Brasil - Edição de Sábado",
-     "img": "p/214704b7f49f.jpg"
-    },
     {
      "d": 1794670200,
      "f": 1794673800,
@@ -2907,27 +2898,27 @@
      "f": 1794691800,
      "titre": "Hora News - Edição de Sábado",
      "img": "p/98d370d5f729.jpg"
+    },
+    {
+     "d": 1794691800,
+     "f": 1794697200,
+     "titre": "Zapping",
+     "img": "p/acc12a42f132.jpg"
     }
    ],
    "next": {
-    "titre": "Hora News - Edição de Sábado",
-    "d": 1794670200
+    "titre": "JR Trade",
+    "d": 1794673800
    }
   },
   "Canal Once": {
    "now": {
-    "d": 1794668400,
-    "f": 1794670200,
-    "titre": "Diversos somos",
-    "img": "p/db0601226487.jpg"
+    "d": 1794670200,
+    "f": 1794672000,
+    "titre": "Conmemoraciones",
+    "img": "p/b9623acf8278.jpg"
    },
    "prog": [
-    {
-     "d": 1794668400,
-     "f": 1794670200,
-     "titre": "Diversos somos",
-     "img": "p/db0601226487.jpg"
-    },
     {
      "d": 1794670200,
      "f": 1794672000,
@@ -2969,11 +2960,17 @@
      "f": 1794680100,
      "titre": "Amigas/os ONN: Detrás de la artesanía",
      "img": "p/6695d4dd29ae.jpg"
+    },
+    {
+     "d": 1794680100,
+     "f": 1794681000,
+     "titre": "Jaguares del Once",
+     "img": "p/11a0ccc8b46a.jpg"
     }
    ],
    "next": {
-    "titre": "Conmemoraciones",
-    "d": 1794670200
+    "titre": "Actívate",
+    "d": 1794672000
    }
   },
   "Al Arabiya": {
@@ -3063,6 +3060,12 @@
      "f": 1794690900,
      "titre": "Gönül Dağı",
      "img": "p/5733ea068573.jpg"
+    },
+    {
+     "d": 1794690900,
+     "f": 1794695400,
+     "titre": "Pelin Çift İle Gündem Ötesi",
+     "img": "p/d9d41aadd99d.jpg"
     }
    ],
    "next": {
